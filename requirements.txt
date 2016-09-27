@@ -1,0 +1,23 @@
+-e git+https://github.com/vlasy/blinker@23703c2e3a581c32a21d4fed3563aa8541bb6598#egg=blinker
+Cerberus==0.8.1
+Eve==0.5.3
+-e git+https://github.com/vlasy/eve-sqlalchemy@1de52ffa110caa5b68bc22818907e8529b9e31b0#egg=Eve_SQLAlchemy
+Events==0.2.1
+Flask==0.10.1
+Flask-Login==0.3.2
+Flask-Mail==0.9.1
+Flask-Principal==0.4.0
+Flask-PyMongo==0.3.1
+Flask-Security==1.7.5
+Flask-SQLAlchemy==2.1
+Flask-WTF==0.12
+itsdangerous==0.24
+Jinja2==2.8
+MarkupSafe==0.23
+passlib==1.6.5
+psycopg2==2.6.2
+pymongo==2.9.3
+simplejson==3.8.2
+SQLAlchemy==1.0.15
+Werkzeug==0.10.4
+WTForms==2.1
